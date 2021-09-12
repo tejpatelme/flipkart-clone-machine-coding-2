@@ -5,6 +5,7 @@
     "imageURL": "https://rukminim1.flixcart.com/image/800/960/kklhbbk0/t-shirt/n/b/o/l-raw-327-mustard-rawhit-original-imafzwzzwx6yybaq.jpeg?q=50",
     "brand": "Rawhit",
     "price": 272,
+    "discount": 5,
     "size": ["S", "M", "L", "XL"],
     "idealFor": "Men"
   },
@@ -14,6 +15,7 @@
     "imageURL": "https://rukminim1.flixcart.com/image/800/960/kf75fgw0-0/t-shirt/f/6/j/xxl-t325-pwgh-seven-rocks-original-imafvpbgf6nchmfj.jpeg?q=50",
     "brand": "Seven Rocks",
     "price": 262,
+    "discount": 5,
     "size": ["M", "L"],
     "idealFor": "Men"
   },
@@ -23,6 +25,7 @@
     "imageURL": "https://rukminim1.flixcart.com/image/800/960/kfoapow0-0/t-shirt/w/o/n/s-2907-the-dry-state-original-imafw2gxuntfkzfy.jpeg?q=50",
     "brand": "Seven Rocks",
     "price": 332,
+    "discount": 5,
     "size": ["S", "M"],
     "idealFor": "Women"
   },
@@ -32,6 +35,7 @@
     "imageURL": "https://rukminim1.flixcart.com/image/800/960/kcz4rrk0/t-shirt/c/n/o/xxl-kttwomenstshirt47-kotty-original-imaftzkqf9mzunzf.jpeg?q=50",
     "brand": "KOTTY",
     "price": 254,
+    "discount": 5,
     "size": ["S"],
     "idealFor": "Women"
   },
@@ -41,6 +45,7 @@
     "imageURL": "https://rukminim1.flixcart.com/image/800/960/kf5pzm80-0/t-shirt/2/v/v/xl-aopleaffull-drgreen-urbano-fashion-original-imafvzqqbfbfvprv.jpeg?q=50",
     "brand": "Urbano Fashion",
     "price": 399,
+    "discount": 5,
     "size": ["M", "L"],
     "idealFor": "Men"
   },
@@ -50,6 +55,7 @@
     "imageURL": "https://rukminim1.flixcart.com/image/800/960/kfk0e4w0-0/t-shirt/w/d/5/l-cfpgreymilange-fleximaa-original-imafvzez6zf9y2gw.jpeg?q=50",
     "brand": "FLEXIMAA",
     "price": 352,
+    "discount": 5,
     "size": ["L", "XL"],
     "idealFor": "Men"
   }
